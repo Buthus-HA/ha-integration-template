@@ -1,0 +1,12 @@
+{
+  "domain": "mon_integration",
+  "name": "Mon intégration",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/Buthus-HA/ha-mon-integration",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Buthus-HA/ha-mon-integration/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

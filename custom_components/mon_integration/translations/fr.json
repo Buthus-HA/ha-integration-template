@@ -1,0 +1,7 @@
+{
+  "config": {
+    "step": { "user": { "title": "Mon intégration", "description": "Ajouter l'intégration ?" } },
+    "abort": { "already_configured": "L'intégration est déjà configurée." }
+  },
+  "entity": { "sensor": { "value": { "name": "Valeur" } } }
+}
